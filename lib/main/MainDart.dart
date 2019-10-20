@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/res/YcColors.dart';
+import 'package:flutter_app/res/GlobalColors.dart';
 
 /**
  * Created by LiTingYao on 2019/10/19.
